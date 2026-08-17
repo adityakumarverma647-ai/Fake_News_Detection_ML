@@ -242,24 +242,24 @@ with st.sidebar:
 # HERO SECTION
 # ============================================================
 
-st.markdown(
-    """
-    <div class="hero">
+# st.markdown(
+#     """
+#     <div class="hero">
 
-        <div class="badge">AI / MACHINE LEARNING PROJECT</div>
+#         <div class="badge">AI / MACHINE LEARNING PROJECT</div>
 
-        <h1>📰 Fake News Detector</h1>
+#         <h1>📰 Fake News Detector</h1>
 
-        <p>
-            Analyze news content using Natural Language Processing
-            and Machine Learning to determine whether an article
-            is likely to be <b>REAL</b> or <b>FAKE</b>.
-        </p>
+#         <p>
+#             Analyze news content using Natural Language Processing
+#             and Machine Learning to determine whether an article
+#             is likely to be <b>REAL</b> or <b>FAKE</b>.
+#         </p>
 
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+#     </div>
+#     """,
+#     unsafe_allow_html=True
+# )
 
 
 # ============================================================
